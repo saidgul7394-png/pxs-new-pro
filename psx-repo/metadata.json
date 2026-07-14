@@ -1,0 +1,6 @@
+{
+  "name": "PSX Vision Pro",
+  "description": "Pakistan's most modern Pakistan Stock Exchange (PSX) tracking and investment app. Powered by real-time market simulation, advanced portfolio statistics, and Gemini AI analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
