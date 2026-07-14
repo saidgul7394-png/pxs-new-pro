@@ -1,0 +1,16 @@
+{
+  "app_name": "PSX Vision Pro",
+  "app_title": "PSX Vision Pro",
+  "login_title": "Enter Terminal Portal",
+  "guest_mode": "Access Guest Mode",
+  "username": "Username",
+  "password": "Password",
+  "submit": "Authenticate",
+  "market_watch": "Live Market Watch",
+  "market_status": "Market Status",
+  "portfolio": "Portfolio Ledger",
+  "watch_alert": "Set Price Alarm",
+  "reset": "Reset Engine Data",
+  "otp_desc": "Enter 6-digit OTP code sent to your registered phone",
+  "welcome_back": "Welcome Back"
+}
